@@ -74,7 +74,6 @@ def word_count_token(male_words, female_words, text_token):
     # male words count
     for i in range(len(male_words)):
         male_word = male_words[i]
-        male_count = 0
         male_all_count = 0
         if (re.match(male_word, text_token)):
             male_count_match=1
@@ -86,7 +85,6 @@ def word_count_token(male_words, female_words, text_token):
     # female words count
     for j in range(len(female_words)):
         female_word = female_words[j]
-        female_count = 0
         female_all_count = 0
         if (re.match(female_word, text_token)):
             female_count_match=1

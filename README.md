@@ -20,5 +20,3 @@ Following steps have been followed to carry out the analysis:
 5. Saving the results
 6. Analysis using Google Data Studio
 
-Link to the Data Studio dashboard:   
-https://datastudio.google.com/reporting/79fa7664-adce-4a48-8d70-e7ef344d3398/page/p_7qk5rr8esc

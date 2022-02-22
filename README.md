@@ -17,6 +17,5 @@ Following steps have been followed to carry out the analysis:
 2. Words frequency based on gender
 3. Consolidation of data and metrics
 4. Adding group dimensions (job category, location etc)
-5. Saving the results
-6. Analysis using Google Data Studio
+5. Analysis of results using Google Data Studio
 

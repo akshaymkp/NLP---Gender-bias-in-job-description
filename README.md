@@ -1,4 +1,4 @@
-# NLP---Gender-bias-in-job-description
+# Detecting gender bias in job desciptions uisng NLP methods
 The repository contains code to analyse gender bias in job descriptions dataset.    
 
 Data source -   
